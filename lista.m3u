@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF: -1, tvg-logo = "", AR:TNT SPORT
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT Sports HD/SA SAGEMCOM/TNT Sports_HD.m3u8
+#EXTINF: -1, tvg-logo = "", AR:ESPN P
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
